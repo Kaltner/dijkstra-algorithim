@@ -1,0 +1,11 @@
+First steps:
+    ☐ Create one test
+    ☐ Create the function that walks through this first test and make it a success
+
+After that:
+    ☐ Create tests for more complexes cases
+    ☐ Change the function until those complex cases are fuffilled
+    Complex cases:
+        ☐ What about a really long pathway?
+        ☐ What about a path that has more than one correct result?
+
